@@ -1,4 +1,4 @@
-![Actions Status](https://github.com/zeoneo/master-build/workflows/pio-esp-ili9486/badge.svg)
+![Actions Status](https://github.com/zeoneo/pio-esp-ili9486/workflows/master-build/badge.svg)
 
 
 #   About this project
