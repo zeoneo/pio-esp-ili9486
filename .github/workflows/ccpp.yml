@@ -1,4 +1,4 @@
-name: PlatformIO CI
+name: pio-esp-ili9486
 
 on: [push]
 

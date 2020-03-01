@@ -1,3 +1,5 @@
+![Actions Status](https://github.com/zeoneo/pio-esp-ili9486/workflows/pio-esp-ili9486/badge.svg)]
+
 
 #   About this project
 
