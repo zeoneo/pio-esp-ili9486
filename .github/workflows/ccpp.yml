@@ -16,4 +16,4 @@ jobs:
         python -m pip install --upgrade pip
         pip install platformio
     - name: Run PlatformIO
-      run: platformio run./pio/esp-ili9486
+      run: platformio run 
