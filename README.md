@@ -22,8 +22,8 @@ Graphics Driver.
 
 3. To upload the project use following command
 
-    `pio run -t upload --upload_port your port name`
+    `pio run -t upload --upload-port your port name`
 
     Sample Command
 
-    `pio run -t upload --upload_port /dev/cu.SLAB_USBtoUART`
+    `pio run -t upload --upload-port /dev/cu.SLAB_USBtoUART`
